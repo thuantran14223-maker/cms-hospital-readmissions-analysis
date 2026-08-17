@@ -136,7 +136,6 @@ cms-hospital-readmissions-analysis/
 ├── screenshots/
 │   └── dashboard.png
 │
-├── sql/
 │
 ├── tableau/
 │   └── Hospital Readmissions Analysis.twbx
